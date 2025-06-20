@@ -3,10 +3,6 @@
         {
             "login": "123@gmail.com",
             "passwd": "2511345A"
-        },
-        {
-            "login": "1445@gmail.com",
-            "passwd": "2511345B"
         }
     ]
 }

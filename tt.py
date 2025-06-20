@@ -31,5 +31,10 @@ def main():
         passw1.click()
         time.sleep(2)
         keyboard.write(user["passwd"])
-        
+    loginsys = driver.find_element(By.CSS_SELECTOR,".ehk74z00")
+    time.sleep(1)
+    loginsys.click()
+
+
+
 main()
